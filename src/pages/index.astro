@@ -2,6 +2,8 @@
 import Layout from '../layouts/Layout.astro';
 import Pokemon from '../components/Pokemon.astro';
 import {RandomPokemon} from '../components/RandomPokemon.ts';
+
+export const prerender = true;
 ---
 
 <Layout title="Welcome to Astro.">
