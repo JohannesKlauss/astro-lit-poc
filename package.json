@@ -12,9 +12,10 @@
   "dependencies": {
     "@astrojs/lit": "^1.2.1",
     "@astrojs/node": "^5.0.4",
+    "@astrojs/vercel": "^3.2.0",
     "@web-types/lit": "^2.0.0-3",
     "@webcomponents/template-shadowroot": "^0.1.0",
-    "astro": "^2.0.18",
+    "astro": "^2.1.0",
     "lit": "^2.6.1"
   }
 }
